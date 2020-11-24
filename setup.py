@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='str_udacity_distributions', 
-      version='0.1',
+      version='0.2',
       description='Gaussian distributions',
       packages=['str_udacity_distributions'],
       author='Torin Rettig',
